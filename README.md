@@ -9,7 +9,7 @@ I have always been looking for a perfect web browser, for me, but I have found n
 Add librefox repo, the following lines, to /etc/pacman.conf
 
 ```
-[librefox_repo]
+[librefox_arch]
 SigLevel = Optional DatabaseOptional
 Server = https://github.com/librefox05/$repo/raw/refs/heads/main/$arch
 ```
